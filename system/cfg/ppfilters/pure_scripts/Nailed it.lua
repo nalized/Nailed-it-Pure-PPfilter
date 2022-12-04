@@ -50,7 +50,7 @@ function init_pure_script()
         PURE__ExpCalc_set_Target(1.0)
 
         -- modulate pp brightness to compensate the setting in the ppfilter file
-        __PURE__set_config("pp.brightness", 1+(Pure_get_PPfilter_entry("COLOR","BRIGHTNESS")-1)*0.5, true)
+        __PURE__set_config("pp.brightness", 1+(Pure_get_PPfilter_entry("COLOR","BRIGHTNESS")-1)*0.45, true)
 
         godrays_length = Pure_get_PPfilter_entry("GODRAYS","LENGTH") or 5
     end
