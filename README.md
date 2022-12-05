@@ -31,5 +31,5 @@ make sure back-up your CM setting before load mine
 make sure reload my setting after install Nailed it! pure PPfilter
 ```
 my CM Video setting : https://acstuff.ru/s/5Se52M
+
 my CSP setting : https://acstuff.ru/s/rGoYvn
-also update on github : https://github.com/nalized/Nailed-it-Pure-PPfilter
